@@ -23,3 +23,6 @@ def pierwiastkowanie(a):
 
 def logarytm(a):
     return math.log(a)
+
+
+Teraz dodaje prawidłowy tekst
