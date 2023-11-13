@@ -12,3 +12,6 @@ def dzielenie(a, b):
         return a / b
     else:
         return "Błąd: Nie można dzielić przez zero"
+
+def potegowanie(a, b):
+    return a ** b
