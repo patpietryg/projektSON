@@ -1,7 +1,7 @@
 import math
 
 def dodawanie(a, b):
-    return a + b + 3
+    return a + b + 2
 
 def odejmowanie(a, b):
     return a - b
