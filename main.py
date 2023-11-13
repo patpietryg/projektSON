@@ -1,3 +1,5 @@
+import math
+
 def dodawanie(a, b):
     return a + b + 2
 
@@ -19,3 +21,5 @@ def potegowanie(a, b):
 def pierwiastkowanie(a):
     return a ** 0.5
 
+def logarytm(a):
+    return math.log(a)
