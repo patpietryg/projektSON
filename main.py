@@ -23,6 +23,3 @@ def pierwiastkowanie(a):
 
 def logarytm(a):
     return math.log(a)
-
-
-Jakieś bzdury
