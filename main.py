@@ -1,5 +1,5 @@
 def dodawanie(a, b):
-    return a + b
+    return a + b + 3
 
 def odejmowanie(a, b):
     return a - b
