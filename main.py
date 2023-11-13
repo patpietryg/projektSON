@@ -15,3 +15,7 @@ def dzielenie(a, b):
 
 def potegowanie(a, b):
     return a ** b
+
+def pierwiastkowanie(a):
+    return a ** 0.5
+
